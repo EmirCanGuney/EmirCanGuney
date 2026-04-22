@@ -9,34 +9,10 @@ I’m a 4th-year Software Engineering student from Türkiye, focused on **backen
 ---
 
 
-### Technologies & Tools  
+### Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=spring" width="70" height="70" /> 
-  <img src="https://skillicons.dev/icons?i=hibernate" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=postgresql" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=docker" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=postman" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=python" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=html" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=css" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=js" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=git" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=github" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=kafka" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" /> 
-  <img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=npm" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=opencv" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=idea" width="70" height="70" /> 
-  <img src="https://skillicons.dev/icons?i=vscode" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=pycharm" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=eclipse" width="70" height="70" />
-  <img src="https://skillicons.dev/icons?i=anaconda" width="70" height="70" />
-
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,docker,postman,python,html,css,js,nextjs,git,github,kafka,kubernetes,mongodb,mysql,npm,opencv,idea,vscode,pycharm,eclipse,anaconda&perline=8" />
 </p>
 
 ---
