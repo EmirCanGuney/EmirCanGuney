@@ -4,7 +4,7 @@
 
 ###  About Me  
 
-I’m a 4th-year Software Engineering student from Türkiye, focused on **backend development** and **Spring Boot**. During my **internships** (**Etiya, UFS Teknoloji, BTYÖN Technology, Acrome Robotics**) and **academic experience**, I have worked with **Java**, **PostgreSQL**, **Docker**, **RESTful API**, **GraphQL**, **IoT systems**, **microservices**, **Next.js**, **artificial intelligence**, **machine learning**, **computer vision**, **cryptography**, and **computer networks**. I apply **OOP**, **SOLID**, **DRY**, and **Clean Architecture** principles to build clean, sustainable, and scalable solutions. I am motivated by continuous learning and developing impactful software for real-world challenges.
+I’m a **Software Engineer** focused on **backend development** and **Spring Boot**. During my **internships** (**Etiya, UFS Teknoloji, BTYÖN Technology, Acrome Robotics**) and **academic experience**, I have worked with **Java**, **PostgreSQL**, **Docker**, **RESTful API**, **GraphQL**, **IoT systems**, **microservices**, **Next.js**, **artificial intelligence**, **machine learning**, **computer vision**, **cryptography**, and **computer networks**. I apply **OOP**, **SOLID**, **DRY**, and **Clean Architecture** principles to build clean, sustainable, and scalable solutions. I am motivated by continuous learning and developing impactful software for real-world challenges.
 
 ---
 
