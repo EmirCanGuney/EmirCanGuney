@@ -4,7 +4,15 @@
 
 ###  About Me  
 
-I’m a **Software Engineer** focused on **backend development** and **Spring Boot**. During my **internships** (**Etiya, UFS Teknoloji, BTYÖN Technology, Acrome Robotics**) and **academic experience**, I have worked with **Java**, **PostgreSQL**, **Docker**, **RESTful API**, **GraphQL**, **IoT systems**, **microservices**, **Next.js**, **artificial intelligence**, **machine learning**, **computer vision**, **cryptography**, and **computer networks**. I apply **OOP**, **SOLID**, **DRY**, and **Clean Architecture** principles to build clean, sustainable, and scalable solutions. I am motivated by continuous learning and developing impactful software for real-world challenges.
+**Software Engineer** focused on **backend development** and building **scalable** and **maintainable software systems**.
+
+During my internships at **Etiya**, **UFS Teknoloji**, **BTYÖN Technology**, and **Acrome Robotics**, I worked on real-world projects using the **Java** and **Spring Boot** ecosystem, including **RESTful APIs**, **GraphQL**, **IoT-based systems**, and **microservice architectures**. I also gained experience working in **Agile/Scrum** environments, actively participating in sprint planning and team collaboration.
+
+In addition to my professional experience, I have worked on projects involving **artificial intelligence**, **machine learning**, **computer vision**, **cryptography**, **network design**, and **automation**, which helped me develop a broader engineering perspective.
+
+I apply **OOP**, **SOLID**, **DRY**, and **Clean Architecture** principles to build clean, maintainable, and scalable solutions.
+
+I am motivated by continuous learning and enjoy developing impactful software solutions for real-world challenges.
 
 ---
 
